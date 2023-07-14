@@ -41,6 +41,7 @@ This application is composed of mainly three main functions having several tasks
     
       `npm start`
 
+   7. After running the 'npm start' you derectly move to the web page and now you have to connect your metamask wallet accordingly and here you can run your functions.
 ## Access
 After successful execution of all the steps, your application is render on your browser at -
 
