@@ -18,27 +18,27 @@ This application is composed of mainly three main functions having several tasks
    After cloning the repository, move to root directory of project and run the application by using these steps:
 
    1. Install project dependencies.
-   2. 
+      
       `npm install`
 
-   3. Start a local blockchain.
-   4. 
+   2. Start a local blockchain.
+      
       `npm hardhat node`
 
-   5. Deploy the RishiContract.
-   6. 
+   3. Deploy the RishiContract.
+    
       `npx hardhat run scripts/deploy.js --network localhost`
 
-   7. Move to frontend directory by using this coomand.
-   8. 
+   4. Move to frontend directory by using this coomand.
+    
       `cd ./frontend`
 
-   9. Install project dependencies for frontend.
-   10. 
+   5. Install project dependencies for frontend.
+    
       `npm install`
 
-   11. Now start react server by using this coomand.
-   12. 
+   6. Now start react server by using this coomand.
+    
       `npm start`
 
 ## Access
